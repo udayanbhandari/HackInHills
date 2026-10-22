@@ -23,6 +23,3 @@ ENV/
 .idea/
 .DS_Store
 Thumbs.db
-
-# Large media files (Uncomment if you want to exclude the 86MB demo video)
-# hackinhills.mp4
